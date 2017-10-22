@@ -1,0 +1,642 @@
+district,district_census_code,state,rural_BMIM,rural_BMIW,rural_BPM,rural_BPW,rural_SUGM,rural_SUGW,rural_BMI_show,rural_BP_show,rural_SUG_show,rural_ALL_show
+Adilabad,532,Telangana,6.2,11.6,9.1,11.1,4.9,4.5,no,no,no,no
+Agra,146,Uttar Pradesh,15.1,12.2,7.1000000000000005,4.2,5.1,2.8,no,no,no,no
+Ahmadabad,474,Gujarat,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Ahmednagar,522,Maharashtra,15.1,13.9,13.9,6.699999999999998,2.7,4.4,yes,no,no,no
+Aizawl,283,Mizoram,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Ajmer,119,Rajasthan,13.9,11.6,13.3,5.3,7.4,5.4,no,no,yes,no
+Akola,501,Maharashtra,7.7,14.3,11.6,9.9,9.3,4.3,no,no,no,no
+Alappuzha,598,Kerala,26.8,36.8,10.0,6.9,13.6,8.3,yes,no,yes,no
+Aligarh,143,Uttar Pradesh,6.4,13.6,6.3,4.6,13.1,4.5,no,no,no,no
+Alirajpur,465,Madhya Pradesh,6.0,5.1,12.7,9.0,7.4,4.2,no,yes,no,no
+Allahabad,175,Uttar Pradesh,6.9,14.4,7.6,6.4,3.3,3.3,no,no,no,no
+Almora,64,Uttarakhand,13.8,7.7,21.9,9.0,6.5,4.6,no,yes,no,no
+Alwar,104,Rajasthan,18.1,10.9,13.4,7.7,8.4,2.4,no,no,no,no
+Ambala,70,Haryana,7.1,13.3,8.0,8.1,5.7,3.6,no,no,no,no
+Ambedkar Nagar,178,Uttar Pradesh,10.7,11.7,8.399999999999999,8.1,4.9,2.8,no,no,no,no
+Amravati,503,Maharashtra,17.6,11.7,16.0,10.5,10.2,5.5,no,yes,yes,no
+Amreli,480,Gujarat,22.5,25.7,12.4,8.5,9.2,6.0,yes,yes,yes,yes
+Amritsar,49,Punjab,33.0,30.1,16.3,15.0,7.2,6.2,yes,yes,yes,yes
+Anand,482,Gujarat,9.6,12.5,24.7,13.7,8.7,5.2,no,yes,yes,no
+Anantapur,553,Andhra Pradesh,20.2,20.1,19.3,10.8,10.6,5.6,yes,yes,yes,yes
+Anantnag,14,Jammu & Kashmir,11.3,29.8,10.6,15.5,3.6,6.6,no,no,no,no
+Anjaw,260,Arunachal Pradesh,24.7,18.4,37.6,22.3,9.5,4.6,yes,yes,no,no
+Anugul,384,Odisha,10.7,13.1,23.0,12.0,9.7,5.3,no,yes,yes,no
+Anuppur,461,Madhya Pradesh,3.4,4.6,10.4,8.4,7.2,4.8,no,no,no,no
+Araria,209,Bihar,6.1,4.6,6.1,6.9,6.6,4.1,no,no,no,no
+Ariyalur,616,Tamil Nadu,29.0,20.8,24.4,7.3,10.5,7.4,yes,no,yes,no
+Arwal,240,Bihar,6.1,7.8,3.9,5.4,7.6,4.1,no,no,no,no
+Ashoknagar,459,Madhya Pradesh,6.6,8.3,5.5,5.2,3.1,1.6,no,no,no,no
+Auraiya,162,Uttar Pradesh,5.9,9.4,6.7,4.1,0.0,2.4,no,no,no,no
+Aurangabad,235,Bihar,21.6,10.7,4.2,7.899999999999999,20.2,5.2,no,no,yes,no
+Aurangabad,515,Maharashtra,8.7,15.8,10.0,9.8,4.8,2.8,no,no,no,no
+Azamgarh,191,Uttar Pradesh,13.9,13.7,8.899999999999997,7.399999999999999,5.3,4.5,yes,no,no,no
+Badgam,2,Jammu & Kashmir,13.7,29.1,16.6,9.7,3.4,6.9,yes,yes,no,no
+Bagalkot,556,Karnataka,8.9,12.8,11.8,8.2,3.4,3.4,no,no,no,no
+Bageshwar,63,Uttarakhand,16.7,9.7,16.7,5.9,12.5,4.3,no,no,no,no
+Baghpat,139,Uttar Pradesh,12.1,23.1,9.8,4.9,10.0,7.2,no,no,yes,no
+Bahraich,180,Uttar Pradesh,11.9,9.1,14.2,13.7,15.3,7.8,no,yes,yes,no
+Baksa,324,Assam,7.6,15.1,24.9,18.6,7.4,5.5,no,yes,yes,no
+Balaghat,457,Madhya Pradesh,1.7,5.4,7.8,7.8,5.5,4.5,no,no,no,no
+Balangir,393,Odisha,9.5,9.0,11.1,8.6,10.1,6.6,no,no,yes,no
+Baleshwar,377,Odisha,19.2,12.2,16.4,9.2,15.4,8.3,no,yes,yes,no
+Ballia,193,Uttar Pradesh,11.9,16.8,12.8,10.4,8.0,5.2,no,yes,yes,no
+Balrampur,182,Uttar Pradesh,9.1,9.6,21.9,14.3,10.0,7.7,no,yes,yes,no
+Banaskantha,469,Gujarat,13.2,9.0,10.4,3.5,6.9,3.1,no,no,no,no
+Banda,170,Uttar Pradesh,5.2,6.4,3.9,3.8,1.0,1.0,no,no,no,no
+Bandipore,9,Jammu & Kashmir,19.3,32.9,8.7,9.7,4.1,4.3,yes,no,no,no
+Bangalore,572,Karnataka,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Bangalore Rural,583,Karnataka,20.9,20.0,24.5,6.6,4.9,6.4,yes,no,no,no
+Banka,225,Bihar,12.4,6.0,5.7,3.7,6.6,3.7,no,no,no,no
+Bankura,339,West Bengal,9.3,7.9,7.7,7.8,9.4,7.3,no,no,yes,no
+Banswara,125,Rajasthan,7.0,7.0,5.1000000000000005,3.4,8.1,4.4,no,no,no,no
+Bara Banki,176,Uttar Pradesh,8.3,11.0,16.099999999999998,8.5,6.1,3.6,no,yes,no,no
+Baramula,8,Jammu & Kashmir,18.6,21.1,12.2,8.5,3.7,2.9,yes,no,no,no
+Baran,128,Rajasthan,5.3,7.6,6.700000000000001,5.4,7.4,4.4,no,no,no,no
+Barddhaman,335,West Bengal,6.4,11.8,10.6,11.9,9.1,7.3,no,no,yes,no
+Bareilly,150,Uttar Pradesh,6.0,15.7,6.1000000000000005,7.299999999999999,13.0,7.7,no,no,yes,no
+Bargarh,370,Odisha,16.6,13.0,15.8,7.0,9.5,5.2,yes,no,yes,no
+Barmer,115,Rajasthan,14.2,9.8,12.1,6.5,4.1,2.8,no,no,no,no
+Barnala,54,Punjab,20.0,31.8,34.9,24.6,13.0,5.6,yes,yes,yes,yes
+Barpeta,303,Assam,14.4,11.5,30.4,21.4,6.3,5.2,no,yes,no,no
+Barwani,441,Madhya Pradesh,4.0,6.7,10.5,11.8,5.0,4.5,no,no,no,no
+Bastar,414,Chhattisgarh,2.2,2.4,9.0,9.7,9.0,5.9,no,no,yes,no
+Basti,185,Uttar Pradesh,9.4,14.6,18.9,12.1,11.6,12.8,no,yes,yes,no
+Bathinda,46,Punjab,24.7,23.1,12.4,12.2,4.5,4.9,yes,yes,no,no
+Baudh,391,Odisha,13.6,8.4,9.7,7.2,12.5,5.1,no,no,yes,no
+Begusarai,222,Bihar,15.9,8.4,10.4,4.3,5.5,2.4,no,no,no,no
+Belgaum,555,Karnataka,22.8,18.6,9.4,9.500000000000002,4.7,4.9,yes,no,no,no
+Bellary,565,Karnataka,10.3,14.5,6.199999999999998,6.0,6.6,3.1,no,no,no,no
+Betul,447,Madhya Pradesh,3.8,10.3,5.8,4.699999999999998,5.8,2.3,no,no,no,no
+Bhadrak,378,Odisha,21.8,11.6,7.9,6.2,15.5,11.3,no,no,yes,no
+Bhagalpur,224,Bihar,8.5,8.4,4.7,3.1,3.2,3.9,no,no,no,no
+Bhandara,506,Maharashtra,6.9,10.9,10.6,8.8,8.7,4.3,no,no,no,no
+Bharatpur,105,Rajasthan,11.5,12.1,9.999999999999998,9.7,4.2,3.0,no,no,no,no
+Bharuch,488,Gujarat,12.6,16.3,17.3,11.6,5.1,8.8,yes,yes,no,no
+Bhavnagar,481,Gujarat,21.6,23.9,17.9,7.6,7.6,6.8,yes,no,yes,no
+Bhilwara,122,Rajasthan,8.2,12.3,5.4,3.7,6.3,3.1,no,no,no,no
+Bhind,420,Madhya Pradesh,9.8,11.1,2.6,4.4,2.1,1.2,no,no,no,no
+Bhiwani,81,Haryana,21.3,19.1,17.7,8.200000000000001,4.6,4.2,yes,no,no,no
+Bhojpur,231,Bihar,8.9,12.3,12.3,6.1,6.8,4.1,no,no,no,no
+Bhopal,444,Madhya Pradesh,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Bid,523,Maharashtra,12.2,15.9,6.1,7.399999999999999,1.0,4.6,no,no,no,no
+Bidar,558,Karnataka,12.6,12.2,20.7,10.9,5.3,3.3,no,yes,no,no
+Bijapur,417,Chhattisgarh,7.3,1.7,13.0,5.8,4.4,4.0,no,no,no,no
+Bijapur,557,Karnataka,13.9,13.4,24.2,10.7,5.0,3.6,yes,yes,no,no
+Bijnor,134,Uttar Pradesh,4.9,17.1,5.8,5.2,10.5,5.4,no,no,yes,no
+Bikaner,101,Rajasthan,10.2,10.7,10.6,6.0,6.4,3.3,no,no,no,no
+Bilaspur,30,Himachal Pradesh,18.2,27.7,23.3,12.5,5.1,6.8,yes,yes,no,no
+Bilaspur,406,Chhattisgarh,5.8,7.0,5.2,5.4,0.7,3.3,no,no,no,no
+Birbhum,334,West Bengal,5.2,8.8,6.6000000000000005,9.9,12.0,4.8,no,no,no,no
+Bishnupur,275,Manipur,20.5,23.4,17.400000000000002,9.8,13.7,5.3,yes,yes,yes,yes
+Bokaro,355,Jharkhand,3.5,4.9,9.1,6.6,10.9,4.7,no,no,no,no
+Bongaigaon,319,Assam,19.1,12.3,26.9,17.8,5.6,4.1,no,yes,no,no
+Budaun,149,Uttar Pradesh,4.0,9.3,3.5,3.7,5.8,3.6,no,no,no,no
+Bulandshahr,142,Uttar Pradesh,10.1,15.1,7.6,4.9,5.5,3.0,no,no,no,no
+Buldhana,500,Maharashtra,4.3,14.3,10.8,9.1,3.4,3.2,no,no,no,no
+Bundi,121,Rajasthan,7.2,7.3,12.9,3.6,8.6,3.9,no,no,no,no
+Burhanpur,467,Madhya Pradesh,7.4,10.5,14.4,8.4,2.9,4.6,no,yes,no,no
+Buxar,232,Bihar,8.6,14.7,11.0,6.9,6.1,3.6,no,no,no,no
+Cachar,316,Assam,7.3,6.0,13.6,10.9,0.8,1.9,no,yes,no,no
+Central,95,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Chamarajanagar,578,Karnataka,17.9,15.1,14.7,11.4,9.9,4.0,yes,yes,no,no
+Chamba,23,Himachal Pradesh,15.8,18.6,14.8,6.699999999999998,7.9,3.1,yes,no,no,no
+Chamoli,57,Uttarakhand,8.2,12.9,12.6,6.6000000000000005,2.4,3.8,no,no,no,no
+Champawat,65,Uttarakhand,23.2,13.6,23.5,10.6,13.0,8.5,yes,yes,yes,yes
+Champhai,284,Mizoram,15.1,13.0,16.7,9.8,9.2,7.1,yes,yes,yes,yes
+Chandauli,196,Uttar Pradesh,9.5,12.0,10.7,7.199999999999998,7.2,3.0,no,no,no,no
+Chandel,280,Manipur,15.4,23.8,11.6,11.1,9.0,5.7,yes,no,yes,no
+Chandigarh,55,Chandigarh,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Chandrapur,509,Maharashtra,12.4,5.6,5.300000000000002,6.2,8.0,4.1,no,no,no,no
+Changlang,253,Arunachal Pradesh,11.1,12.1,15.500000000000002,12.2,15.3,7.3,no,yes,yes,no
+Chatra,347,Jharkhand,9.9,4.5,16.0,6.799999999999999,6.9,3.4,no,no,no,no
+Chennai,603,Tamil Nadu,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Chhatarpur,425,Madhya Pradesh,6.4,6.5,9.5,7.1,12.2,4.9,no,no,no,no
+Chhindwara,455,Madhya Pradesh,8.9,11.3,4.2,6.2,9.3,4.1,no,no,no,no
+Chikkaballapura,582,Karnataka,16.8,15.8,21.0,7.6,5.0,5.8,yes,no,no,no
+Chikmagalur,570,Karnataka,13.8,20.5,9.6,12.5,10.4,8.6,yes,no,yes,no
+Chirang,320,Assam,13.7,15.3,28.7,23.3,7.3,5.5,yes,yes,yes,yes
+Chitradurga,566,Karnataka,18.8,10.2,11.5,8.1,7.5,3.9,no,no,no,no
+Chitrakoot,171,Uttar Pradesh,1.1,6.0,3.7,3.0000000000000004,5.5,2.1,no,no,no,no
+Chittaurgarh,126,Rajasthan,6.1,13.9,7.4,8.1,5.4,2.9,no,no,no,no
+Chittoor,554,Andhra Pradesh,25.6,22.2,11.6,6.6,9.1,8.1,yes,no,yes,no
+Churachandpur,274,Manipur,17.1,22.0,19.4,7.8,18.8,11.0,yes,no,yes,no
+Churu,102,Rajasthan,7.1,11.9,12.8,7.2,2.9,2.4,no,no,no,no
+Coimbatore,632,Tamil Nadu,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Cuddalore,617,Tamil Nadu,19.3,23.6,8.700000000000001,5.0,10.1,3.9,yes,no,no,no
+Cuttack,381,Odisha,25.3,23.3,5.2,9.0,15.2,11.1,yes,no,yes,no
+Dadra and Nagar Haveli,496,Dadra and Nagar Haveli,11.5,6.9,6.8,5.4,11.1,4.0,no,no,no,no
+Dakshin Bastar Dantewada,416,Chhattisgarh,2.8,3.1,9.4,9.8,7.0,5.2,no,no,yes,no
+Dakshin Dinajpur,331,West Bengal,8.8,10.5,7.5,12.7,7.3,5.5,no,no,yes,no
+Dakshina Kannada,575,Karnataka,17.7,21.9,16.5,12.9,7.3,5.8,yes,yes,yes,yes
+Daman,495,Daman & Diu,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Damoh,428,Madhya Pradesh,2.6,9.1,4.5,7.800000000000002,3.6,7.5,no,no,no,no
+Darbhanga,215,Bihar,14.0,9.8,9.9,5.5,2.7,4.4,no,no,no,no
+Darjiling,327,West Bengal,18.6,18.4,20.1,13.0,10.4,3.1,yes,yes,no,no
+Darrang,325,Assam,5.3,9.1,12.3,11.6,9.1,5.2,no,no,yes,no
+Datia,422,Madhya Pradesh,2.6,7.2,3.9,3.8,3.8,3.2,no,no,no,no
+Dausa,109,Rajasthan,6.1,8.2,13.2,6.9,6.7,2.7,no,no,no,no
+Davanagere,567,Karnataka,15.2,21.7,14.999999999999998,12.9,11.9,5.2,yes,yes,yes,yes
+Debagarh,373,Odisha,8.1,9.5,22.6,12.5,8.5,5.5,no,yes,yes,no
+Dehradun,60,Uttarakhand,18.4,24.4,15.500000000000002,8.5,3.4,6.3,yes,yes,no,no
+Deoghar,350,Jharkhand,6.5,4.3,11.0,6.9,12.0,7.4,no,no,yes,no
+Deoria,190,Uttar Pradesh,12.0,16.1,19.6,9.4,6.4,7.1,no,yes,no,no
+Dewas,437,Madhya Pradesh,14.4,10.5,19.1,8.7,4.8,3.5,no,yes,no,no
+Dhalai,291,Tripura,13.8,12.3,7.9,7.5,9.0,5.1,no,no,yes,no
+Dhamtari,412,Chhattisgarh,6.5,7.3,7.4,7.8,10.9,5.2,no,no,yes,no
+Dhanbad,354,Jharkhand,7.3,6.8,7.899999999999999,6.300000000000002,7.9,6.7,no,no,yes,no
+Dhar,438,Madhya Pradesh,10.0,8.9,13.6,9.3,4.9,4.5,no,yes,no,no
+Dharmapuri,630,Tamil Nadu,22.4,23.3,13.0,8.4,7.7,7.5,yes,yes,yes,yes
+Dharwad,562,Karnataka,18.2,18.4,18.6,10.8,8.1,5.1,yes,yes,yes,yes
+Dhaulpur,106,Rajasthan,9.2,6.3,5.7,4.0,6.2,2.2,no,no,no,no
+Dhemaji,308,Assam,11.3,11.9,19.2,16.900000000000002,9.8,6.0,no,yes,yes,no
+Dhenkanal,383,Odisha,11.9,15.0,11.5,12.1,16.2,8.6,no,no,yes,no
+Dhubri,301,Assam,15.1,6.1,8.5,12.500000000000002,3.8,2.7,no,no,no,no
+Dhule,498,Maharashtra,16.7,9.3,19.4,9.0,8.2,5.1,no,yes,yes,no
+Dibang Valley,257,Arunachal Pradesh,17.5,25.8,26.4,21.3,5.3,7.7,yes,yes,no,no
+Dibrugarh,310,Assam,13.4,10.6,24.5,15.7,7.3,4.0,no,yes,no,no
+Dima Hasao,315,Assam,4.8,9.3,19.2,13.6,7.0,4.4,no,yes,no,no
+Dimapur,265,Nagaland,16.1,22.0,20.8,14.3,6.9,7.6,yes,yes,no,no
+Dindigul,612,Tamil Nadu,26.0,22.0,14.2,8.3,3.9,5.3,yes,no,no,no
+Dindori,453,Madhya Pradesh,5.0,4.0,9.7,9.9,7.5,5.5,no,no,yes,no
+Diu,494,Daman & Diu,35.0,28.4,11.2,6.500000000000001,5.9,6.5,yes,no,no,no
+Doda,16,Jammu & Kashmir,13.8,17.0,12.4,12.000000000000002,3.0,3.2,yes,yes,no,no
+Dohad,485,Gujarat,7.4,4.4,13.900000000000002,11.5,1.9,6.5,no,yes,no,no
+Dumka,362,Jharkhand,8.5,2.5,9.9,9.1,7.7,4.5,no,no,no,no
+Dungarpur,124,Rajasthan,6.0,4.7,11.2,5.1,5.4,4.4,no,no,no,no
+Durg,409,Chhattisgarh,7.3,11.1,7.1000000000000005,6.3,10.2,7.8,no,no,yes,no
+East,93,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+East District,244,Sikkim,27.7,26.5,26.7,18.8,5.4,6.7,yes,yes,no,no
+East Garo Hills,294,Meghalaya,7.1,9.1,11.6,15.4,2.6,3.8,no,no,no,no
+East Godavari,545,Andhra Pradesh,24.7,32.2,24.0,12.3,10.4,4.6,yes,yes,no,no
+East Kameng,247,Arunachal Pradesh,15.1,15.0,21.6,15.7,10.7,4.1,yes,yes,no,no
+East Khasi Hills,298,Meghalaya,0.0,11.1,7.1,8.2,9.7,5.7,no,no,yes,no
+East Siang,251,Arunachal Pradesh,32.2,22.8,36.6,16.5,10.4,10.1,yes,yes,yes,yes
+Ernakulam,595,Kerala,41.3,35.3,12.8,8.4,13.0,10.1,yes,yes,yes,yes
+Erode,610,Tamil Nadu,14.1,25.1,22.6,10.0,14.5,5.2,yes,yes,yes,yes
+Etah,201,Uttar Pradesh,8.7,14.3,9.6,4.6,3.5,1.7,no,no,no,no
+Etawah,161,Uttar Pradesh,8.1,15.7,15.8,8.3,5.5,3.6,no,no,no,no
+Faizabad,177,Uttar Pradesh,10.1,13.4,9.4,7.1000000000000005,2.5,3.4,no,no,no,no
+Faridabad,88,Haryana,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Faridkot,45,Punjab,11.8,26.6,29.9,8.9,0.8,6.3,no,yes,no,no
+Farrukhabad,159,Uttar Pradesh,10.8,11.9,10.6,8.4,5.8,3.7,no,no,no,no
+Fatehabad,78,Haryana,17.7,13.5,14.2,14.4,5.4,3.0,yes,yes,no,no
+Fatehgarh Sahib,40,Punjab,39.0,40.0,25.700000000000006,14.8,10.3,5.8,yes,yes,yes,yes
+Fatehpur,172,Uttar Pradesh,8.0,9.4,1.7000000000000002,5.2,4.5,2.2,no,no,no,no
+Firozabad,147,Uttar Pradesh,9.8,10.1,6.0,5.2,6.3,3.9,no,no,no,no
+Firozpur,43,Punjab,25.7,25.8,27.3,14.4,13.3,8.2,yes,yes,yes,yes
+Gadag,561,Karnataka,16.8,8.7,18.0,8.399999999999999,4.5,1.9,no,no,no,no
+Gadchiroli,508,Maharashtra,10.7,6.3,9.1,7.0,4.1,3.9,no,no,no,no
+Gajapati,389,Odisha,12.9,8.1,11.1,4.9,5.3,5.7,no,no,no,no
+Ganderbal,11,Jammu & Kashmir,15.3,31.1,18.2,12.8,4.9,5.6,yes,yes,no,no
+Gandhinagar,473,Gujarat,17.4,15.1,14.9,10.9,9.7,4.9,yes,yes,no,no
+Ganganagar,99,Rajasthan,24.0,19.0,12.1,8.4,4.2,6.3,yes,no,no,no
+Ganjam,388,Odisha,10.0,18.2,5.6,5.9,9.9,7.6,no,no,yes,no
+Garhwa,346,Jharkhand,9.1,7.3,11.6,5.3,2.5,2.5,no,no,no,no
+Garhwal,61,Uttarakhand,12.4,16.6,24.1,7.6,5.9,7.9,yes,no,no,no
+Gautam Buddha Nagar,141,Uttar Pradesh,18.8,25.5,9.4,5.9,6.1,3.5,yes,no,no,no
+Gaya,236,Bihar,17.1,9.6,11.3,7.6,4.8,3.8,no,no,no,no
+Ghaziabad,140,Uttar Pradesh,14.6,25.0,4.0,6.4,7.9,5.3,yes,no,yes,no
+Ghazipur,195,Uttar Pradesh,16.6,11.8,12.4,7.300000000000002,4.6,4.1,no,no,no,no
+Giridih,349,Jharkhand,4.2,5.2,12.0,5.9,3.9,3.5,no,no,no,no
+Goalpara,302,Assam,12.3,9.6,11.5,14.6,5.0,2.7,no,no,no,no
+Godda,351,Jharkhand,7.6,6.0,21.3,8.9,12.2,4.8,no,yes,no,no
+Golaghat,313,Assam,11.8,11.8,19.5,18.200000000000006,14.7,5.9,no,yes,yes,no
+Gonda,183,Uttar Pradesh,5.5,12.1,22.4,14.8,10.8,9.5,no,yes,yes,no
+Gondiya,507,Maharashtra,7.1,4.8,15.4,12.6,9.0,4.5,no,yes,no,no
+Gopalganj,217,Bihar,20.0,16.4,12.4,7.7,3.2,6.1,yes,no,no,no
+Gorakhpur,188,Uttar Pradesh,18.5,15.1,13.8,9.8,9.4,6.3,yes,yes,yes,yes
+Gulbarga,579,Karnataka,19.7,10.3,25.3,8.4,6.7,3.6,no,yes,no,no
+Gumla,366,Jharkhand,7.9,5.4,6.200000000000001,7.899999999999999,5.1,3.5,no,no,no,no
+Guna,458,Madhya Pradesh,4.3,6.8,7.9,6.4,1.9,1.8,no,no,no,no
+Guntur,548,Andhra Pradesh,32.8,38.8,10.4,11.0,19.6,7.7,yes,no,yes,no
+Gurdaspur,35,Punjab,16.8,28.8,13.9,12.3,2.8,6.4,yes,yes,no,no
+Gurgaon,86,Haryana,22.0,20.1,23.1,9.8,8.8,6.7,yes,yes,yes,yes
+Gwalior,421,Madhya Pradesh,5.7,6.7,8.6,4.1,4.6,2.2,no,no,no,no
+Hailakandi,318,Assam,6.6,6.1,9.599999999999998,9.5,3.7,3.7,no,no,no,no
+Hamirpur,28,Himachal Pradesh,30.5,30.4,34.2,15.3,7.7,6.1,yes,yes,yes,yes
+Hamirpur,168,Uttar Pradesh,6.3,4.4,5.4,3.3,6.4,2.3,no,no,no,no
+Hanumangarh,100,Rajasthan,11.5,13.2,22.4,9.2,8.6,3.7,no,yes,no,no
+Haora,341,West Bengal,11.6,20.6,13.3,17.099999999999998,16.8,7.8,no,yes,yes,no
+Harda,448,Madhya Pradesh,10.4,11.7,12.1,9.1,8.8,5.0,no,no,yes,no
+Hardoi,155,Uttar Pradesh,2.2,9.2,7.4,7.1000000000000005,6.1,3.6,no,no,no,no
+Hardwar,68,Uttarakhand,15.8,17.3,12.8,9.3,7.9,6.6,yes,yes,yes,yes
+Hassan,574,Karnataka,26.3,22.0,17.200000000000006,11.7,3.1,6.8,yes,yes,no,no
+Haveri,564,Karnataka,11.8,16.7,3.7,10.4,6.8,4.8,no,no,no,no
+Hazaribagh,360,Jharkhand,14.3,7.7,11.5,5.1000000000000005,8.9,3.6,no,no,no,no
+Hingoli,512,Maharashtra,4.6,10.9,14.9,11.1,6.3,3.8,no,yes,no,no
+Hisar,80,Haryana,19.4,15.6,15.1,8.299999999999999,6.9,3.0,yes,no,no,no
+Hoshangabad,449,Madhya Pradesh,3.7,10.7,6.5,7.000000000000001,6.9,2.6,no,no,no,no
+Hoshiarpur,38,Punjab,24.4,31.2,19.4,13.2,1.9,7.4,yes,yes,no,no
+Hugli,338,West Bengal,17.6,28.1,12.5,12.9,12.8,10.7,yes,yes,yes,yes
+Hyderabad,536,Telangana,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Idukki,596,Kerala,25.1,27.6,7.1,4.9,15.0,9.4,yes,no,yes,no
+Imphal East,278,Manipur,24.8,28.6,21.9,11.8,9.6,6.8,yes,yes,yes,yes
+Imphal West,277,Manipur,22.9,25.5,11.3,13.7,10.4,8.7,yes,no,yes,no
+Indore,439,Madhya Pradesh,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Jabalpur,451,Madhya Pradesh,9.8,10.8,9.4,7.699999999999998,7.2,4.7,no,no,no,no
+Jagatsinghapur,380,Odisha,26.0,25.2,18.8,8.9,15.8,6.5,yes,yes,yes,yes
+Jaintia Hills,299,Meghalaya,6.7,10.1,7.6,7.6,5.1,4.0,no,no,no,no
+Jaipur,110,Rajasthan,10.2,12.0,17.4,9.1,4.8,3.2,no,yes,no,no
+Jaisalmer,114,Rajasthan,9.1,10.5,10.8,4.9,3.6,1.8,no,no,no,no
+Jajapur,382,Odisha,8.0,17.1,12.6,8.8,9.4,8.4,no,yes,yes,no
+Jalandhar,37,Punjab,34.4,28.6,17.599999999999994,13.8,7.2,7.4,yes,yes,yes,yes
+Jalaun,165,Uttar Pradesh,8.9,9.1,8.1,3.6,3.7,2.2,no,no,no,no
+Jalgaon,499,Maharashtra,15.3,20.0,17.2,10.5,1.7,4.2,yes,yes,no,no
+Jalna,514,Maharashtra,15.1,12.1,13.5,9.4,2.9,2.2,no,yes,no,no
+Jalor,116,Rajasthan,9.7,8.2,7.5,5.7,6.9,4.0,no,no,no,no
+Jalpaiguri,328,West Bengal,9.6,9.6,19.1,17.3,5.9,5.4,no,yes,no,no
+Jammu,21,Jammu & Kashmir,21.2,29.6,15.3,12.2,9.6,6.2,yes,yes,yes,yes
+Jamnagar,477,Gujarat,29.6,21.3,7.0,4.7,4.3,5.7,yes,no,no,no
+Jamtara,363,Jharkhand,7.4,4.3,6.9,7.300000000000002,8.1,5.0,no,no,yes,no
+Jamui,238,Bihar,11.7,6.9,6.6,4.5,3.7,2.9,no,no,no,no
+Janjgir Champa,405,Chhattisgarh,6.4,12.5,12.9,7.1,9.2,7.1,no,no,yes,no
+Jashpur,402,Chhattisgarh,5.9,7.5,15.0,12.7,10.6,4.3,no,yes,no,no
+Jaunpur,194,Uttar Pradesh,13.0,14.1,7.699999999999998,4.9,3.5,3.7,yes,no,no,no
+Jehanabad,239,Bihar,10.2,9.5,7.6,4.5,4.4,5.2,no,no,no,no
+Jhabua,464,Madhya Pradesh,7.0,9.1,10.0,8.700000000000001,8.8,4.8,no,no,no,no
+Jhajjar,83,Haryana,18.1,23.5,22.7,8.6,5.4,6.0,yes,yes,no,no
+Jhalawar,129,Rajasthan,5.6,7.2,9.3,5.1,10.3,4.4,no,no,no,no
+Jhansi,166,Uttar Pradesh,3.0,9.6,6.2,3.9,3.8,3.6,no,no,no,no
+Jharsuguda,371,Odisha,7.3,10.5,8.1,6.8,12.1,8.4,no,no,yes,no
+Jhunjhunun,103,Rajasthan,16.3,16.1,15.5,6.9,3.3,2.2,yes,no,no,no
+Jind,77,Haryana,11.8,15.8,14.7,6.4,2.6,3.5,no,no,no,no
+Jodhpur,113,Rajasthan,13.8,13.9,16.099999999999998,5.4,9.8,2.6,yes,no,no,no
+Jorhat,312,Assam,10.2,7.8,23.5,15.099999999999998,8.3,5.7,no,yes,yes,no
+Junagadh,479,Gujarat,20.2,21.4,7.9,8.3,8.3,5.3,yes,no,yes,no
+Jyotiba Phule Nagar,137,Uttar Pradesh,7.9,13.7,10.5,5.2,6.6,6.2,no,no,no,no
+Kabirdham,407,Chhattisgarh,10.0,7.5,9.1,6.2,7.8,7.1,no,no,yes,no
+Kachchh,468,Gujarat,20.8,19.8,9.5,3.9,6.4,4.7,yes,no,no,no
+Kaimur,233,Bihar,12.2,11.6,6.3,5.5,5.6,5.8,no,no,no,no
+Kaithal,73,Haryana,25.4,22.0,19.3,8.0,5.5,5.1,yes,no,no,no
+Kalahandi,395,Odisha,8.6,7.4,6.6000000000000005,6.4,7.6,4.3,no,no,no,no
+Kamrup,321,Assam,14.4,13.3,10.8,12.5,2.2,4.2,yes,no,no,no
+Kamrup Metropolitan,322,Assam,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Kancheepuram,604,Tamil Nadu,22.1,33.5,10.9,8.9,6.8,6.8,yes,no,no,no
+Kandhamal,390,Odisha,5.7,6.8,3.8,5.1000000000000005,5.8,3.6,no,no,no,no
+Kangra,24,Himachal Pradesh,21.6,27.7,21.6,13.4,7.6,7.5,yes,yes,yes,yes
+Kannauj,160,Uttar Pradesh,3.7,11.7,10.5,6.3,4.4,2.8,no,no,no,no
+Kanniyakumari,629,Tamil Nadu,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Kannur,589,Kerala,34.4,33.4,15.6,6.0,24.6,12.2,yes,no,yes,no
+Kanpur Dehat,163,Uttar Pradesh,2.3,10.4,4.6,3.5,3.8,2.0,no,no,no,no
+Kanpur Nagar,164,Uttar Pradesh,10.1,10.4,6.800000000000002,5.1,3.9,3.0,no,no,no,no
+Kanshiram Nagar,202,Uttar Pradesh,7.2,10.9,6.1,4.9,3.9,2.1,no,no,no,no
+Kapurthala,36,Punjab,32.4,41.9,17.799999999999994,9.4,16.5,6.7,yes,yes,yes,yes
+Karaikal,637,Puducherry,26.8,32.2,25.1,7.4,19.8,10.0,yes,no,yes,no
+Karauli,107,Rajasthan,6.2,8.0,10.9,6.6000000000000005,3.7,3.1,no,no,no,no
+Karbi Anglong,314,Assam,10.3,12.5,17.799999999999994,17.099999999999998,9.4,4.1,no,yes,no,no
+Kargil,4,Jammu & Kashmir,10.3,11.2,8.4,6.5,0.7,1.0,no,no,no,no
+Karimganj,317,Assam,7.4,9.2,16.599999999999998,11.900000000000002,3.2,5.0,no,yes,no,no
+Karimnagar,534,Telangana,13.3,19.5,10.8,11.1,6.7,6.4,yes,no,no,no
+Karnal,74,Haryana,30.4,23.0,12.6,4.3,10.1,4.1,yes,no,no,no
+Karur,613,Tamil Nadu,24.0,22.6,22.8,5.6,14.5,6.6,yes,no,yes,no
+Kasaragod,588,Kerala,18.4,23.7,9.1,10.0,9.4,9.0,yes,no,yes,no
+Kathua,7,Jammu & Kashmir,15.6,23.3,14.3,7.7,7.0,4.3,yes,no,no,no
+Katihar,212,Bihar,5.5,6.1,6.800000000000002,5.1,5.4,5.2,no,no,no,no
+Katni,450,Madhya Pradesh,10.0,11.1,11.3,10.000000000000002,8.6,10.0,no,no,yes,no
+Kaushambi,174,Uttar Pradesh,11.2,8.5,5.4,5.4,5.6,2.6,no,no,no,no
+Kendrapara,379,Odisha,6.4,15.7,10.8,6.4,9.0,7.6,no,no,yes,no
+Kendujhar,375,Odisha,13.8,10.6,12.4,15.4,6.5,8.5,no,yes,no,no
+Khagaria,223,Bihar,12.0,10.0,6.7,3.6,4.9,3.1,no,no,no,no
+Khammam,541,Telangana,18.2,23.1,16.4,10.5,7.6,7.4,yes,yes,yes,yes
+Khandwa (East Nimar),466,Madhya Pradesh,5.2,8.1,7.3,7.9,2.6,4.7,no,no,no,no
+Khargone (West Nimar),440,Madhya Pradesh,8.9,8.1,13.6,9.7,4.8,4.5,no,yes,no,no
+Kheda,483,Gujarat,9.3,15.0,13.2,10.3,9.3,5.6,no,yes,yes,no
+Kheri,153,Uttar Pradesh,5.6,7.5,8.3,10.599999999999998,5.9,3.1,no,no,no,no
+Khordha,386,Odisha,19.7,25.7,4.8,7.899999999999999,9.8,8.3,yes,no,yes,no
+Khunti,365,Jharkhand,3.8,4.2,9.7,9.4,8.8,5.9,no,no,yes,no
+Kinnaur,34,Himachal Pradesh,22.0,27.6,20.1,9.4,6.4,3.8,yes,yes,no,no
+Kiphire,269,Nagaland,7.8,8.4,22.0,12.4,7.0,5.4,no,yes,yes,no
+Kishanganj,210,Bihar,7.7,5.4,11.9,7.8,10.2,4.6,no,no,no,no
+Kishtwar,18,Jammu & Kashmir,13.3,12.8,12.3,9.1,2.8,2.5,no,no,no,no
+Koch Bihar,329,West Bengal,9.2,7.6,16.700000000000006,11.1,5.7,7.1,no,yes,no,no
+Kodagu,576,Karnataka,24.0,23.9,11.2,12.4,8.4,7.4,yes,no,yes,no
+Kodarma,348,Jharkhand,11.2,7.3,8.7,6.6,5.0,4.1,no,no,no,no
+Kohima,270,Nagaland,19.5,18.9,27.200000000000006,20.3,6.6,7.2,yes,yes,no,no
+Kokrajhar,300,Assam,12.0,10.4,27.700000000000006,18.9,5.3,6.1,no,yes,no,no
+Kolar,581,Karnataka,12.9,15.2,6.4,9.7,10.7,5.9,yes,no,yes,no
+Kolasib,282,Mizoram,5.4,17.7,8.299999999999999,7.7,19.3,11.1,no,no,yes,no
+Kolhapur,530,Maharashtra,23.1,24.7,19.700000000000006,14.2,3.5,6.4,yes,yes,no,no
+Kolkata,342,West Bengal,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Kollam,600,Kerala,20.2,34.4,4.4,12.3,12.5,8.9,yes,no,yes,no
+Koppal,560,Karnataka,15.0,10.5,15.4,6.5,9.4,6.5,no,no,yes,no
+Koraput,398,Odisha,8.8,6.3,13.599999999999998,9.9,8.5,5.2,no,yes,yes,no
+Korba,404,Chhattisgarh,3.7,7.3,19.5,11.0,8.3,5.9,no,yes,yes,no
+Korea,400,Chhattisgarh,10.1,7.1,11.5,12.4,4.2,4.2,no,no,no,no
+Kota,127,Rajasthan,8.6,11.6,9.6,4.8,6.3,3.9,no,no,no,no
+Kottayam,597,Kerala,24.7,29.6,4.9,7.7,12.1,10.1,yes,no,yes,no
+Kozhikode,591,Kerala,9.3,23.1,7.8,4.5,17.4,9.5,no,no,yes,no
+Krishna,547,Andhra Pradesh,38.6,40.9,12.1,11.099999999999998,1.8,11.2,yes,no,no,no
+Krishnagiri,631,Tamil Nadu,19.7,19.1,16.2,7.0,8.7,4.4,yes,no,no,no
+Kulgam,15,Jammu & Kashmir,13.4,30.0,12.0,15.1,5.7,4.8,yes,no,no,no
+Kullu,26,Himachal Pradesh,20.2,25.7,31.7,13.2,5.2,3.4,yes,yes,no,no
+Kupwara,1,Jammu & Kashmir,12.7,16.1,8.1,9.5,3.7,5.3,yes,no,no,no
+Kurnool,552,Andhra Pradesh,26.7,20.3,16.8,9.9,1.0,5.1,yes,yes,no,no
+Kurukshetra,72,Haryana,18.2,19.5,17.9,10.6,4.2,2.8,yes,yes,no,no
+Kurung Kumey,256,Arunachal Pradesh,26.3,12.4,16.7,9.7,4.2,3.2,no,yes,no,no
+Kushinagar,189,Uttar Pradesh,6.7,12.5,17.7,10.500000000000002,7.0,4.1,no,yes,no,no
+Lahul and Spiti,25,Himachal Pradesh,19.4,23.4,19.1,10.3,1.9,2.7,yes,yes,no,no
+Lakhimpur,307,Assam,14.2,13.4,27.1,20.0,11.9,6.8,yes,yes,yes,yes
+Lakhisarai,227,Bihar,8.2,10.5,6.300000000000002,4.0,5.2,2.6,no,no,no,no
+Lakshadweep,587,Lakshadweep,22.2,28.2,11.1,15.3,15.5,9.2,yes,no,yes,no
+Lalitpur,167,Uttar Pradesh,3.5,6.0,6.8,4.6,4.5,5.8,no,no,no,no
+Latehar,359,Jharkhand,9.5,6.7,13.2,7.4,7.2,2.0,no,no,no,no
+Latur,524,Maharashtra,15.7,18.2,14.8,6.9,5.2,3.5,yes,no,no,no
+Lawngtlai,287,Mizoram,13.8,8.8,15.9,7.300000000000002,10.6,6.3,no,no,yes,no
+Leh(Ladakh),3,Jammu & Kashmir,23.9,19.2,13.1,6.5,0.0,1.7,yes,no,no,no
+Lohardaga,356,Jharkhand,8.4,5.2,15.1,7.0,7.6,3.5,no,no,no,no
+Lohit,259,Arunachal Pradesh,15.2,13.1,19.1,10.0,6.1,3.9,yes,yes,no,no
+Longleng,268,Nagaland,5.8,6.1,17.0,17.3,8.8,6.1,no,yes,yes,no
+Lower Dibang Valley,258,Arunachal Pradesh,16.6,15.9,17.5,8.6,7.1,3.9,yes,yes,no,no
+Lower Subansiri,255,Arunachal Pradesh,26.9,19.4,26.5,19.5,4.7,4.4,yes,yes,no,no
+Lucknow,157,Uttar Pradesh,16.0,10.5,9.6,6.1,5.3,4.5,no,no,no,no
+Ludhiana,41,Punjab,23.3,38.1,29.6,12.2,7.3,6.6,yes,yes,yes,yes
+Lunglei,286,Mizoram,11.6,14.9,11.0,8.5,12.4,6.8,no,no,yes,no
+Madhepura,213,Bihar,9.9,7.2,6.1,5.8,4.1,4.6,no,no,no,no
+Madhubani,207,Bihar,9.8,8.9,7.4,4.8,3.7,2.4,no,no,no,no
+Madurai,623,Tamil Nadu,32.5,26.2,21.8,9.1,9.6,7.2,yes,yes,yes,yes
+Mahamaya Nagar,144,Uttar Pradesh,11.5,14.8,10.8,6.1,3.6,5.0,no,no,no,no
+Maharajganj,187,Uttar Pradesh,8.7,13.0,15.7,13.0,13.0,9.0,no,yes,yes,no
+Mahasamund,411,Chhattisgarh,6.9,6.9,10.4,7.5,12.8,6.7,no,no,yes,no
+Mahbubnagar,538,Telangana,18.3,16.4,22.9,8.700000000000001,6.0,5.5,yes,yes,no,no
+Mahe,636,Puducherry,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Mahendragarh,84,Haryana,14.6,14.5,17.7,10.999999999999998,5.5,2.6,yes,yes,no,no
+Mahesena,471,Gujarat,13.7,18.4,9.3,7.6,10.2,5.8,yes,no,yes,no
+Mahoba,169,Uttar Pradesh,9.6,6.5,2.7,3.1,6.2,4.0,no,no,no,no
+Mainpuri,148,Uttar Pradesh,6.4,12.6,13.6,7.699999999999998,5.5,2.9,no,no,no,no
+Malappuram,592,Kerala,33.2,33.8,10.1,8.9,13.7,11.9,yes,no,yes,no
+Maldah,332,West Bengal,9.0,9.9,13.9,9.8,13.8,7.9,no,yes,yes,no
+Malkangiri,399,Odisha,5.6,5.0,13.0,5.1000000000000005,8.7,4.7,no,no,no,no
+Mamit,281,Mizoram,11.4,11.3,12.4,7.800000000000002,6.3,7.5,no,no,no,no
+Mandi,27,Himachal Pradesh,14.7,23.4,21.6,12.6,4.7,2.9,yes,yes,no,no
+Mandla,454,Madhya Pradesh,5.8,5.4,18.4,10.2,6.7,4.2,no,yes,no,no
+Mandsaur,433,Madhya Pradesh,13.2,10.5,21.6,11.8,11.8,7.4,no,yes,yes,no
+Mandya,573,Karnataka,25.5,25.7,11.3,8.8,9.5,7.0,yes,no,yes,no
+Mansa,47,Punjab,16.7,22.8,27.2,15.499999999999998,4.7,5.3,yes,yes,no,no
+Mathura,145,Uttar Pradesh,16.9,16.8,8.5,7.1000000000000005,4.3,2.8,yes,no,no,no
+Mau,192,Uttar Pradesh,13.0,14.6,4.5,8.9,7.5,4.5,yes,no,no,no
+Mayurbhanj,376,Odisha,13.3,6.7,15.6,13.4,11.3,7.9,no,yes,yes,no
+Medak,535,Telangana,15.9,16.9,9.4,7.8,4.2,4.7,yes,no,no,no
+Meerut,138,Uttar Pradesh,15.8,22.3,10.6,6.5,6.2,4.5,yes,no,no,no
+Mewat,87,Haryana,11.3,9.2,13.9,9.6,3.4,4.4,no,yes,no,no
+Mirzapur,199,Uttar Pradesh,8.4,11.5,4.8,3.6,4.7,2.1,no,no,no,no
+Moga,42,Punjab,30.8,27.4,23.6,16.5,3.2,5.2,yes,yes,no,no
+Mokokchung,262,Nagaland,16.2,19.9,36.8,17.6,18.0,11.8,yes,yes,yes,yes
+Mon,261,Nagaland,19.5,3.8,7.1,10.3,7.0,6.3,no,no,yes,no
+Moradabad,135,Uttar Pradesh,7.2,11.7,6.9,5.7,9.6,6.2,no,no,yes,no
+Morena,419,Madhya Pradesh,6.6,10.1,2.6,4.8,0.8,2.3,no,no,no,no
+Morigaon,304,Assam,6.8,9.9,15.1,16.3,9.5,7.4,no,yes,yes,no
+Muktsar,44,Punjab,19.0,23.7,28.6,19.1,9.6,4.2,yes,yes,no,no
+Mumbai,519,Maharashtra,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Mumbai Suburban,518,Maharashtra,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Munger,226,Bihar,17.1,12.7,5.7,4.6,7.3,3.4,no,no,no,no
+Murshidabad,333,West Bengal,11.4,14.9,6.9,7.300000000000002,11.4,5.4,no,no,yes,no
+Muzaffarnagar,133,Uttar Pradesh,4.7,19.1,9.0,7.4,8.7,6.5,no,no,yes,no
+Muzaffarpur,216,Bihar,17.0,9.2,10.5,4.3,12.2,3.7,no,no,no,no
+Mysore,577,Karnataka,18.3,19.1,16.7,9.500000000000002,9.3,5.2,yes,yes,yes,yes
+Nabarangapur,397,Odisha,5.1,5.5,8.1,11.8,6.3,6.1,no,no,no,no
+Nadia,336,West Bengal,9.7,20.1,9.8,9.2,13.7,5.8,no,no,yes,no
+Nagaon,305,Assam,4.2,14.8,8.7,17.900000000000006,6.2,6.7,no,no,no,no
+Nagapattinam,618,Tamil Nadu,24.4,23.0,20.7,10.1,5.9,7.2,yes,yes,no,no
+Nagaur,112,Rajasthan,10.5,11.7,16.5,8.6,0.0,2.7,no,yes,no,no
+Nagpur,505,Maharashtra,17.0,12.4,15.6,8.2,14.5,3.5,no,no,no,no
+Nainital,66,Uttarakhand,18.7,23.5,15.2,11.6,12.2,7.5,yes,yes,yes,yes
+Nalanda,229,Bihar,8.4,7.1,7.4,4.0,4.2,2.6,no,no,no,no
+Nalbari,323,Assam,10.5,17.1,17.3,18.4,3.8,4.4,no,yes,no,no
+Nalgonda,539,Telangana,19.2,21.5,18.1,10.1,3.3,6.2,yes,yes,no,no
+Namakkal,609,Tamil Nadu,25.8,21.5,21.3,7.699999999999998,8.9,6.6,yes,no,yes,no
+Nanded,511,Maharashtra,11.6,8.9,12.2,7.7,6.1,1.9,no,no,no,no
+Nandurbar,497,Maharashtra,3.7,7.2,16.6,8.0,5.3,3.8,no,no,no,no
+Narayanpur,415,Chhattisgarh,3.3,3.1,8.799999999999997,5.0,7.0,3.9,no,no,no,no
+Narmada,487,Gujarat,10.3,8.0,13.2,9.4,8.8,5.4,no,yes,yes,no
+Narsimhapur,452,Madhya Pradesh,12.9,12.0,13.4,10.7,9.3,6.8,no,yes,yes,no
+Nashik,516,Maharashtra,22.8,14.2,18.2,6.3,5.6,5.4,yes,no,no,no
+Navsari,490,Gujarat,12.7,17.7,26.5,14.1,14.5,6.6,yes,yes,yes,yes
+Nawada,237,Bihar,9.4,9.5,6.5,6.6,7.2,5.1,no,no,yes,no
+Nayagarh,385,Odisha,20.0,22.4,7.0,5.9,14.6,7.4,yes,no,yes,no
+Neemuch,432,Madhya Pradesh,15.0,11.5,23.9,11.1,13.2,6.8,no,yes,yes,no
+New Delhi,94,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Nicobar,638,Andaman & Nicobar Islands,31.7,18.7,43.00000000000001,21.700000000000006,4.0,2.5,yes,yes,no,no
+Nizamabad,533,Telangana,26.2,15.8,14.4,6.199999999999998,4.7,5.7,yes,no,no,no
+North,91,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+North & Middle Andaman,639,Andaman & Nicobar Islands,46.1,29.7,20.3,7.1000000000000005,17.6,8.6,yes,no,yes,no
+North District,241,Sikkim,41.2,24.1,28.3,18.8,8.6,5.7,yes,yes,yes,yes
+North East,92,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+North Goa,585,Goa,28.4,27.5,16.8,7.7,11.3,9.4,yes,no,yes,no
+North Tripura,292,Tripura,7.8,10.5,10.2,9.3,7.1,4.6,no,no,no,no
+North Twenty Four Parganas,337,West Bengal,16.5,23.0,11.7,8.6,7.6,8.1,yes,no,yes,no
+North West,90,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Nuapada,394,Odisha,8.5,5.0,7.7,5.7,6.3,6.1,no,no,no,no
+Osmanabad,525,Maharashtra,23.2,17.9,18.700000000000006,7.5,7.2,4.6,yes,no,no,no
+Pakur,353,Jharkhand,6.6,5.4,10.6,7.3,3.6,3.7,no,no,no,no
+Palakkad,593,Kerala,23.1,30.4,16.599999999999998,6.0,12.6,7.3,yes,no,yes,no
+Palamu,358,Jharkhand,9.8,8.5,7.6,7.5,5.3,3.4,no,no,no,no
+Pali,118,Rajasthan,10.7,11.2,9.9,5.5,1.0,3.3,no,no,no,no
+Palwal,89,Haryana,20.8,11.8,20.6,9.7,6.5,4.4,no,yes,no,no
+Panchkula,69,Haryana,18.2,21.0,15.500000000000002,10.6,7.7,5.2,yes,yes,yes,yes
+Panchmahal,484,Gujarat,10.4,7.0,11.0,10.0,6.1,5.1,no,no,no,no
+Panipat,75,Haryana,26.9,24.9,5.3,5.0,6.6,4.4,yes,no,no,no
+Panna,426,Madhya Pradesh,3.6,9.0,13.0,8.9,12.5,7.0,no,yes,yes,no
+Papumpare,248,Arunachal Pradesh,27.6,21.8,16.6,17.1,7.5,3.4,yes,yes,no,no
+Parbhani,513,Maharashtra,10.8,9.0,11.7,7.1,9.3,3.8,no,no,no,no
+Paschim Medinipur,344,West Bengal,15.3,14.7,11.5,6.7,11.3,6.5,yes,no,yes,no
+Pashchim Champaran,203,Bihar,10.2,9.8,9.7,7.6,5.9,3.7,no,no,no,no
+Pashchimi Singhbhum,368,Jharkhand,3.5,5.3,15.1,12.1,7.4,4.1,no,yes,no,no
+Patan,470,Gujarat,10.5,11.2,8.0,9.6,7.7,5.5,no,no,yes,no
+Pathanamthitta,599,Kerala,36.4,39.1,15.999999999999998,8.6,7.8,11.2,yes,yes,yes,yes
+Patiala,48,Punjab,37.2,34.5,26.9,15.9,8.0,6.1,yes,yes,yes,yes
+Patna,230,Bihar,9.2,12.3,9.3,6.1000000000000005,6.0,3.4,no,no,no,no
+Perambalur,615,Tamil Nadu,18.9,24.9,20.3,6.0,11.5,8.0,yes,no,yes,no
+Peren,271,Nagaland,7.3,15.7,21.3,14.9,4.6,4.9,no,yes,no,no
+Phek,266,Nagaland,9.6,12.4,20.0,20.8,8.6,5.1,no,yes,yes,no
+Pilibhit,151,Uttar Pradesh,5.6,13.1,6.300000000000002,10.0,16.5,8.3,no,no,yes,no
+Pithoragarh,62,Uttarakhand,14.6,14.9,15.6,8.0,12.6,6.6,yes,no,yes,no
+Porbandar,478,Gujarat,13.4,19.5,7.699999999999998,6.2,5.0,4.2,yes,no,no,no
+Prakasam,549,Andhra Pradesh,34.8,29.3,15.5,7.7,5.5,7.0,yes,no,no,no
+Pratapgarh,131,Rajasthan,5.9,5.9,5.5,5.5,4.6,3.5,no,no,no,no
+Pratapgarh,173,Uttar Pradesh,11.2,10.9,3.6,5.6000000000000005,6.8,2.7,no,no,no,no
+Puducherry,635,Puducherry,32.0,34.1,9.3,6.500000000000001,2.9,8.0,yes,no,no,no
+Pudukkottai,621,Tamil Nadu,24.2,20.6,12.5,6.0,14.3,6.0,yes,no,yes,no
+Pulwama,12,Jammu & Kashmir,22.1,33.7,6.700000000000001,11.9,5.0,3.3,yes,no,no,no
+Punch,5,Jammu & Kashmir,15.5,19.9,12.4,10.0,3.2,3.0,yes,yes,no,no
+Pune,521,Maharashtra,17.4,21.3,13.4,9.4,1.6,4.5,yes,yes,no,no
+Purba Champaran,204,Bihar,6.2,9.6,7.6,7.6,10.7,6.2,no,no,yes,no
+Purba Medinipur,345,West Bengal,18.3,19.0,7.300000000000002,6.6,12.8,8.2,yes,no,yes,no
+Purbi Singhbhum,357,Jharkhand,8.7,6.5,8.399999999999999,8.4,6.5,4.6,no,no,no,no
+Puri,387,Odisha,24.6,24.1,8.3,9.1,13.2,9.7,yes,no,yes,no
+Purnia,211,Bihar,4.4,5.8,6.5,6.2,3.9,3.9,no,no,no,no
+Puruliya,340,West Bengal,5.4,3.6,9.5,8.899999999999997,5.0,4.2,no,no,no,no
+Rae Bareli,158,Uttar Pradesh,3.4,9.4,8.299999999999999,7.300000000000002,3.4,2.6,no,no,no,no
+Raichur,559,Karnataka,27.4,13.0,18.6,6.4,7.5,4.2,yes,no,no,no
+Raigarh,403,Chhattisgarh,6.8,9.8,16.6,14.3,15.2,9.4,no,yes,yes,no
+Raigarh,520,Maharashtra,12.0,18.2,21.9,9.1,11.0,4.3,no,yes,no,no
+Raipur,410,Chhattisgarh,12.1,11.5,11.3,7.1,11.3,4.6,no,no,no,no
+Raisen,446,Madhya Pradesh,5.3,8.3,5.9,5.8,6.9,2.0,no,no,no,no
+Rajgarh,442,Madhya Pradesh,6.2,4.8,1.6,4.4,2.7,2.9,no,no,no,no
+Rajkot,476,Gujarat,23.6,30.3,5.0,6.4,7.4,6.7,yes,no,yes,no
+Rajnandgaon,408,Chhattisgarh,5.9,5.2,3.4,4.7,3.8,3.5,no,no,no,no
+Rajouri,6,Jammu & Kashmir,14.4,19.4,17.900000000000006,11.5,3.1,3.3,yes,yes,no,no
+Rajsamand,123,Rajasthan,5.9,11.1,7.8,6.1,2.7,4.0,no,no,no,no
+Ramanagara,584,Karnataka,32.9,19.9,15.1,8.4,5.1,4.7,yes,yes,no,no
+Ramanathapuram,626,Tamil Nadu,26.6,27.6,22.2,7.5,6.3,4.8,yes,no,no,no
+Ramban,17,Jammu & Kashmir,16.2,16.6,14.8,13.0,0.6,2.9,yes,yes,no,no
+Ramgarh,361,Jharkhand,9.2,7.0,7.699999999999998,5.8,6.5,3.8,no,no,no,no
+Rampur,136,Uttar Pradesh,9.4,12.3,5.7,6.9,12.5,7.1,no,no,yes,no
+Ranchi,364,Jharkhand,4.2,7.1,14.9,10.1,3.4,6.1,no,yes,no,no
+Rangareddy,537,Telangana,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Ratlam,434,Madhya Pradesh,2.9,8.7,18.2,8.7,7.4,4.7,no,yes,no,no
+Ratnagiri,528,Maharashtra,25.5,13.7,27.4,9.9,9.0,5.8,yes,yes,yes,yes
+Rayagada,396,Odisha,7.0,6.4,7.1,5.7,11.7,6.6,no,no,yes,no
+Reasi,20,Jammu & Kashmir,12.2,15.6,13.4,6.9,3.8,3.3,no,no,no,no
+Rewa,430,Madhya Pradesh,13.0,12.8,10.1,5.2,4.6,3.9,no,no,no,no
+Rewari,85,Haryana,16.1,19.8,29.4,9.4,13.7,5.9,yes,yes,yes,yes
+Ribhoi,297,Meghalaya,3.0,10.0,10.8,7.5,3.8,3.4,no,no,no,no
+Rohtak,82,Haryana,11.1,19.2,18.9,8.9,6.6,3.3,no,yes,no,no
+Rohtas,234,Bihar,11.6,13.5,10.5,7.6,4.1,5.2,no,no,no,no
+Rudraprayag,58,Uttarakhand,12.1,11.4,14.5,6.199999999999998,2.3,3.8,no,no,no,no
+Rup Nagar,51,Punjab,12.7,42.0,11.2,11.2,5.5,7.3,yes,no,no,no
+Sabarkantha,472,Gujarat,13.7,11.0,14.099999999999998,7.6,5.6,3.6,no,no,no,no
+Sagar,427,Madhya Pradesh,5.9,10.8,10.7,11.0,8.5,8.7,no,no,yes,no
+Saharanpur,132,Uttar Pradesh,14.2,13.6,5.1,6.300000000000002,6.2,6.7,yes,no,no,no
+Saharsa,214,Bihar,7.0,6.7,9.8,4.2,3.5,3.9,no,no,no,no
+Sahibganj,352,Jharkhand,7.8,6.9,13.7,6.9,8.0,4.0,no,no,no,no
+Sahibzada Ajit Singh Nagar,52,Punjab,21.2,35.8,11.8,10.8,13.0,5.3,yes,no,yes,no
+Sahid Bhagat Singh Nagar,39,Punjab,27.5,36.0,15.6,11.7,2.3,5.5,yes,yes,no,no
+Saiha,288,Mizoram,6.8,6.8,10.1,7.5,7.6,3.2,no,no,no,no
+Salem,608,Tamil Nadu,30.6,23.8,11.7,7.9,10.6,6.9,yes,no,yes,no
+Samastipur,221,Bihar,5.0,7.5,10.9,5.2,11.7,2.3,no,no,no,no
+Samba,22,Jammu & Kashmir,22.7,34.6,22.6,13.6,6.2,6.8,yes,yes,no,no
+Sambalpur,372,Odisha,10.8,9.3,9.2,8.7,11.7,5.1,no,no,yes,no
+Sangli,531,Maharashtra,36.0,26.0,15.0,7.899999999999999,11.2,5.4,yes,no,yes,no
+Sangrur,53,Punjab,24.0,28.8,41.2,16.599999999999998,4.1,4.4,yes,yes,no,no
+Sant Kabir Nagar,186,Uttar Pradesh,16.3,12.8,14.2,12.2,8.2,8.1,no,yes,yes,no
+Sant Ravidas Nagar,198,Uttar Pradesh,12.8,13.3,8.4,5.5,3.5,2.3,yes,no,no,no
+Saraikela Kharsawan,369,Jharkhand,9.6,5.9,11.9,11.4,10.0,6.4,no,no,yes,no
+Saran,219,Bihar,15.8,17.1,12.4,6.799999999999999,6.2,5.1,yes,no,no,no
+Satara,527,Maharashtra,27.8,16.5,13.8,10.0,2.7,3.6,yes,yes,no,no
+Satna,429,Madhya Pradesh,7.6,11.4,12.8,6.4,4.1,5.4,no,no,no,no
+Sawai Madhopur,108,Rajasthan,11.3,9.7,11.0,6.300000000000002,3.9,3.3,no,no,no,no
+Sehore,445,Madhya Pradesh,11.6,11.7,8.2,6.3,4.3,1.7,no,no,no,no
+Senapati,272,Manipur,18.8,18.9,21.0,9.3,6.0,6.3,yes,yes,no,no
+Seoni,456,Madhya Pradesh,12.8,7.2,8.5,8.7,6.2,5.7,no,no,no,no
+Serchhip,285,Mizoram,11.1,10.0,13.6,7.9,8.0,10.3,no,no,yes,no
+Shahdol,460,Madhya Pradesh,6.9,8.8,9.2,9.8,5.0,4.7,no,no,no,no
+Shahjahanpur,152,Uttar Pradesh,4.1,14.2,7.5,5.1000000000000005,10.0,6.0,no,no,yes,no
+Shajapur,436,Madhya Pradesh,9.9,9.4,6.6,4.9,3.5,3.2,no,no,no,no
+Sheikhpura,228,Bihar,6.6,9.3,11.8,3.9,5.6,3.1,no,no,no,no
+Sheohar,205,Bihar,13.2,9.4,3.4,6.5,6.7,6.2,no,no,no,no
+Sheopur,418,Madhya Pradesh,5.9,5.8,11.4,5.6000000000000005,5.8,3.6,no,no,no,no
+Shimla,33,Himachal Pradesh,27.1,31.4,17.4,8.3,8.2,6.7,yes,no,yes,no
+Shimoga,568,Karnataka,7.2,17.3,15.4,12.5,5.3,8.4,no,yes,no,no
+Shivpuri,423,Madhya Pradesh,4.5,5.2,4.5,4.5,5.9,3.9,no,no,no,no
+Shrawasti,181,Uttar Pradesh,7.1,9.2,14.8,12.2,11.2,7.1,no,yes,yes,no
+Shupiyan,13,Jammu & Kashmir,15.6,30.8,12.000000000000002,12.2,4.9,7.3,yes,no,no,no
+Siddharthnagar,184,Uttar Pradesh,4.8,12.3,11.0,12.3,15.2,9.4,no,no,yes,no
+Sidhi,462,Madhya Pradesh,7.6,9.7,7.9,6.7,8.0,4.5,no,no,no,no
+Sikar,111,Rajasthan,11.3,14.8,10.5,7.1000000000000005,5.5,4.0,no,no,no,no
+Simdega,367,Jharkhand,1.3,2.8,14.9,8.7,13.4,3.8,no,yes,no,no
+Sindhudurg,529,Maharashtra,18.0,16.2,30.9,13.2,12.7,8.4,yes,yes,yes,yes
+Singrauli,463,Madhya Pradesh,9.0,6.2,7.8,5.699999999999998,4.8,4.3,no,no,no,no
+Sirmaur,32,Himachal Pradesh,21.5,23.0,23.7,12.3,4.7,5.6,yes,yes,no,no
+Sirohi,117,Rajasthan,6.9,7.1,9.7,4.5,1.9,2.2,no,no,no,no
+Sirsa,79,Haryana,18.8,19.0,17.400000000000002,9.7,1.5,3.5,yes,yes,no,no
+Sitamarhi,206,Bihar,6.4,7.7,9.1,7.4,5.6,3.9,no,no,no,no
+Sitapur,154,Uttar Pradesh,4.9,7.2,7.3,7.5,2.4,4.2,no,no,no,no
+Sivaganga,622,Tamil Nadu,15.7,22.0,13.5,3.1,8.9,6.5,yes,no,yes,no
+Sivasagar,311,Assam,10.5,12.1,21.5,19.0,6.9,7.7,no,yes,no,no
+Siwan,218,Bihar,12.8,16.0,9.6,7.300000000000002,11.0,4.6,yes,no,no,no
+Solan,31,Himachal Pradesh,19.3,31.5,21.1,9.8,8.9,5.5,yes,yes,yes,yes
+Solapur,526,Maharashtra,33.3,16.3,15.1,7.3,4.4,5.6,yes,no,no,no
+Sonbhadra,200,Uttar Pradesh,3.4,8.2,10.1,6.3,4.2,3.7,no,no,no,no
+Sonipat,76,Haryana,29.1,32.8,8.1,5.1000000000000005,2.2,4.7,yes,no,no,no
+Sonitpur,306,Assam,14.5,11.1,21.3,13.9,6.8,5.6,no,yes,no,no
+South,98,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+South Andaman,640,Andaman & Nicobar Islands,31.4,25.6,37.7,8.1,10.1,8.8,yes,no,yes,no
+South District,243,Sikkim,0.0,20.1,0.0,13.4,0.0,4.5,no,no,no,no
+South Garo Hills,295,Meghalaya,20.8,13.8,11.7,8.4,6.9,4.6,yes,no,no,no
+South Goa,586,Goa,27.9,30.1,16.5,8.2,12.8,10.6,yes,no,yes,no
+South Tripura,290,Tripura,15.8,12.7,14.4,9.4,10.4,8.5,no,yes,yes,no
+South Twenty Four Parganas,343,West Bengal,9.2,18.5,9.5,6.999999999999999,13.3,7.8,no,no,yes,no
+South West,97,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Sri Potti Sriramulu Nellore,550,Andhra Pradesh,28.2,30.2,15.2,10.7,7.3,9.5,yes,yes,yes,yes
+Srikakulam,542,Andhra Pradesh,12.4,21.0,13.0,5.9,10.1,7.7,yes,no,yes,no
+Srinagar,10,Jammu & Kashmir,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Subarnapur,392,Odisha,10.8,12.6,4.6,5.1000000000000005,8.4,4.4,no,no,no,no
+Sultanpur,179,Uttar Pradesh,12.6,12.3,7.5,7.699999999999998,7.5,3.8,no,no,no,no
+Sundargarh,374,Odisha,8.0,7.0,16.3,9.2,8.2,5.7,no,yes,yes,no
+Supaul,208,Bihar,8.8,5.6,6.1,5.9,5.2,4.3,no,no,no,no
+Surat,492,Gujarat,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Surendranagar,475,Gujarat,11.0,16.3,10.500000000000002,7.9,3.9,4.6,no,no,no,no
+Surguja,401,Chhattisgarh,4.5,4.8,17.700000000000006,19.1,7.0,3.3,no,yes,no,no
+Tamenglong,273,Manipur,8.3,11.6,14.3,11.3,5.9,4.4,no,yes,no,no
+Tapi,493,Gujarat,5.2,7.5,12.5,8.6,8.7,5.7,no,yes,yes,no
+Tarn Taran,50,Punjab,27.6,29.9,27.1,15.8,8.3,7.8,yes,yes,yes,yes
+Tawang,245,Arunachal Pradesh,29.1,28.0,38.5,25.5,2.9,3.4,yes,yes,no,no
+Tehri Garhwal,59,Uttarakhand,6.3,4.5,4.2,4.2,4.0,4.6,no,no,no,no
+Thane,517,Maharashtra,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Thanjavur,620,Tamil Nadu,29.0,27.1,15.0,7.0,15.3,7.6,yes,no,yes,no
+The Dangs,489,Gujarat,3.4,2.3,10.5,3.3000000000000003,4.5,2.6,no,no,no,no
+The Nilgiris,611,Tamil Nadu,21.6,20.7,16.0,15.099999999999998,17.3,7.6,yes,yes,yes,yes
+Theni,624,Tamil Nadu,21.3,26.0,21.700000000000006,10.0,1.6,10.2,yes,yes,no,no
+Thiruvallur,602,Tamil Nadu,30.0,28.1,8.7,5.3,6.6,4.2,yes,no,no,no
+Thiruvananthapuram,601,Kerala,23.0,37.6,17.3,5.8,5.5,5.5,yes,no,no,no
+Thiruvarur,619,Tamil Nadu,19.9,28.0,13.0,9.3,9.5,6.1,yes,yes,yes,yes
+Thoothukkudi,627,Tamil Nadu,20.4,30.3,20.2,5.3,5.8,6.0,yes,no,no,no
+Thoubal,276,Manipur,17.3,22.0,22.4,8.8,5.8,4.8,yes,yes,no,no
+Thrissur,594,Kerala,28.4,24.5,10.2,8.200000000000001,1.9,2.8,yes,no,no,no
+Tikamgarh,424,Madhya Pradesh,6.7,6.1,12.6,7.399999999999999,7.5,5.7,no,no,yes,no
+Tinsukia,309,Assam,5.3,7.7,23.2,16.0,6.8,2.5,no,yes,no,no
+Tirap,254,Arunachal Pradesh,8.5,4.4,10.8,5.9,9.3,3.8,no,no,no,no
+Tiruchirappalli,614,Tamil Nadu,20.2,22.8,8.399999999999999,6.9,4.8,7.5,yes,no,no,no
+Tirunelveli,628,Tamil Nadu,27.5,26.0,12.8,9.4,7.3,5.7,yes,yes,yes,yes
+Tiruppur,633,Tamil Nadu,32.4,27.8,21.1,7.5,6.0,5.4,yes,no,no,no
+Tiruvannamalai,606,Tamil Nadu,29.8,26.1,7.9,6.6,12.0,5.4,yes,no,yes,no
+Tonk,120,Rajasthan,9.1,7.4,12.1,2.6,10.4,2.8,no,no,no,no
+Tuensang,267,Nagaland,7.0,4.8,17.9,12.0,15.5,7.5,no,yes,yes,no
+Tumkur,571,Karnataka,16.8,17.3,15.5,8.700000000000001,6.6,5.6,yes,yes,no,no
+Udaipur,130,Rajasthan,8.3,5.0,9.8,5.200000000000001,7.9,2.4,no,no,no,no
+Udalguri,326,Assam,12.3,9.4,29.5,16.099999999999998,7.5,3.3,no,yes,no,no
+Udham Singh Nagar,67,Uttarakhand,12.8,20.1,17.9,12.1,11.8,6.7,yes,yes,yes,yes
+Udhampur,19,Jammu & Kashmir,12.6,16.4,5.5,7.0,1.5,3.0,yes,no,no,no
+Udupi,569,Karnataka,17.7,19.0,20.9,10.8,7.8,5.4,yes,yes,yes,yes
+Ujjain,435,Madhya Pradesh,6.6,10.2,9.8,8.4,6.1,6.9,no,no,no,no
+Ukhrul,279,Manipur,4.5,10.5,13.0,11.2,3.7,4.6,no,yes,no,no
+Umaria,431,Madhya Pradesh,1.6,6.2,8.0,8.100000000000001,1.6,4.2,no,no,no,no
+Una,29,Himachal Pradesh,24.3,37.3,24.4,13.4,7.6,8.7,yes,yes,yes,yes
+Unnao,156,Uttar Pradesh,6.6,11.0,6.300000000000002,5.1,4.6,2.7,no,no,no,no
+Upper Siang,252,Arunachal Pradesh,35.1,19.2,17.4,18.4,13.4,6.7,yes,yes,yes,yes
+Upper Subansiri,249,Arunachal Pradesh,14.4,14.1,31.1,20.3,7.6,5.1,yes,yes,yes,yes
+Uttar Bastar Kanker,413,Chhattisgarh,10.7,7.1,13.7,7.7,12.7,6.3,no,no,yes,no
+Uttar Dinajpur,330,West Bengal,7.9,8.6,16.4,12.0,6.8,5.1,no,yes,no,no
+Uttara Kannada,563,Karnataka,5.0,15.7,17.7,12.3,9.9,5.8,no,yes,yes,no
+Uttarkashi,56,Uttarakhand,7.5,10.3,7.0,6.3,10.4,4.3,no,no,no,no
+Vadodara,486,Gujarat,12.9,14.1,13.8,11.9,6.1,5.1,yes,yes,no,no
+Vaishali,220,Bihar,11.4,12.6,9.7,5.199999999999998,5.4,3.3,no,no,no,no
+Valsad,491,Gujarat,17.4,20.1,9.9,11.3,7.6,5.6,yes,no,yes,no
+Varanasi,197,Uttar Pradesh,12.2,13.2,5.6,4.8,1.6,3.8,no,no,no,no
+Vellore,605,Tamil Nadu,26.1,34.6,6.4,4.6000000000000005,11.6,9.3,yes,no,yes,no
+Vidisha,443,Madhya Pradesh,4.6,11.1,6.2,12.2,9.0,7.9,no,no,yes,no
+Viluppuram,607,Tamil Nadu,33.4,23.0,14.6,6.1,13.4,5.5,yes,no,yes,no
+Virudhunagar,625,Tamil Nadu,15.1,22.9,27.6,7.3,9.9,9.0,yes,no,yes,no
+Visakhapatnam,544,Andhra Pradesh,14.8,15.3,14.3,8.7,12.3,4.0,yes,yes,no,no
+Vizianagaram,543,Andhra Pradesh,28.0,16.0,19.4,7.8,8.7,6.1,yes,no,yes,no
+Warangal,540,Telangana,23.9,18.7,13.6,8.5,7.8,4.9,yes,yes,no,no
+Wardha,504,Maharashtra,13.2,11.8,9.3,9.3,1.6,4.3,no,no,no,no
+Washim,502,Maharashtra,11.3,8.8,15.8,7.3,7.9,3.4,no,no,no,no
+Wayanad,590,Kerala,32.9,23.7,17.599999999999994,9.5,20.4,11.5,yes,yes,yes,yes
+West,96,NCT Delhi,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+West District,242,Sikkim,29.3,22.0,24.1,13.6,9.3,7.0,yes,yes,yes,yes
+West Garo Hills,293,Meghalaya,12.9,10.4,9.2,12.4,7.6,3.5,no,no,no,no
+West Godavari,546,Andhra Pradesh,39.5,36.9,18.7,10.6,6.7,6.1,yes,yes,no,no
+West Kameng,246,Arunachal Pradesh,15.1,29.2,31.4,22.8,3.7,3.4,yes,yes,no,no
+West Khasi Hills,296,Meghalaya,8.9,7.7,6.200000000000001,7.8,3.3,2.9,no,no,no,no
+West Siang,250,Arunachal Pradesh,16.7,19.9,34.3,24.8,5.0,5.0,yes,yes,no,no
+West Tripura,289,Tripura,18.4,14.2,19.7,16.1,11.4,7.7,yes,yes,yes,yes
+Wokha,264,Nagaland,11.8,8.1,12.7,13.000000000000002,14.7,10.7,no,yes,yes,no
+Y.S.R. Cuddapah,551,Andhra Pradesh,32.0,19.6,18.1,6.7,19.0,7.3,yes,no,yes,no
+Yadgir,580,Karnataka,9.2,9.3,7.7,4.5,9.2,7.3,no,no,yes,no
+Yamunanagar,71,Haryana,19.2,17.9,20.3,10.2,7.6,4.9,yes,yes,no,no
+Yanam,634,Puducherry,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
+Yavatmal,510,Maharashtra,12.7,10.6,6.2,6.999999999999999,4.3,4.1,no,no,no,no
+Zunheboto,263,Nagaland,7.8,16.8,14.5,14.3,4.5,9.6,no,yes,no,no
+PoK,0,Jammu & Kashmir,0.0,0.0,0.0,0.0,0.0,0.0,no,no,no,no
