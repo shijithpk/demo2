@@ -315,46 +315,6 @@ function sec_2(){
 
       canvas_clear();
 
-//text wrap code from https://bl.ocks.org/mbostock/7555321
-
-      function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        x = text.attr("0"),
-        y = text.attr("y"),
-        dy = 0, //parseFloat(text.attr("dy")),
-        tspan = text.text(null)
-                    .append("tspan")
- //                   .attr("x", 10)
-//                    .attr("x", x)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", dy + "em")
-                    ;
-    while (word = words.pop()) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text
-                    .append("tspan")
-                    //.attr("x", 50)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", ++lineNumber * lineHeight + dy + "em")
-                    .text(word)
-                    ;
-      }
-    }
-  });
-}
 
 svg
     .append('text')
@@ -560,69 +520,16 @@ map
         .text('Worse half')
         ;
 
-
-
-
-
-});
-
-//DROPPED THE STATE MAP LATER FROM THE CODE
-
-/*
-d3.json("maps/state_map.json", function(json){
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-    w = +svg.attr("width") - margin.left - margin.right,
-    h = +svg.attr("height") - margin.top - margin.bottom;
-
-var map = svg
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-        .attr("width", w)
-        .attr("height", h)
-        ;
-
-var proj = d3
-      .geoMercator()
-      .fitSize([w, h], json)
-      ;
-
-var pathx = d3
-              .geoPath()
-              .projection(proj)
-              ;
-
-      map
-        .selectAll("path")
-        .data(json.features)
-        .enter()
-            .append("path")
-            .attr("d", pathx)            
-            .style("fill", 'white')
-            .style('fill-opacity','1')            
-            .style("stroke", "#fff")
-            .style("stroke-width", "2px")
-            .style("opacity","0")
-            .transition()
-            .delay(500)
-            .duration(1000)
-            .style("opacity","1")
-            ;
-});
-*/
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-    w = +svg.attr("width") - margin.left - margin.right,
-    h = +svg.attr("height") - margin.top - margin.bottom;
-
-var svg_diag = svg
+var svg_diag = map
                 .append('svg')
-                .attr('y', h/8)
-                .attr('x', w*(4/5))
+                .attr('y', h/60)
+                .attr('x', w*(3.8/5))
                 .attr("width", h/4)
                 .attr("height", w/6)
                 .attr('id','svg_diag')
                 ;
+
+
 
 d3.xml("images/drawing_min.svg", function(error, xml) {
 if (error) {console.log(error); return;}
@@ -685,50 +592,17 @@ svg_diag
 
 
 
+
+
+
+});
+
 }
 
 function sec_3(){ 
 
       canvas_clear();
 
-      function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        x = text.attr("0"),
-        y = text.attr("y"),
-        dy = 0, //parseFloat(text.attr("dy")),
-        tspan = text.text(null)
-                    .append("tspan")
- //                   .attr("x", 10)
-//                    .attr("x", x)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", dy + "em")
-                    ;
-    while (word = words.pop()) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text
-                    .append("tspan")
-                    //.attr("x", 50)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", ++lineNumber * lineHeight + dy + "em")
-                    .text(word)
-                    ;
-      }
-    }
-  });
-}
 
 svg
     .append('text')
@@ -948,57 +822,10 @@ var pathx = d3
               ;
       
 
-
-});
-
-
-/*
-d3.json("maps/state_map.json", function(json){
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-    w = +svg.attr("width") - margin.left - margin.right,
-    h = +svg.attr("height") - margin.top - margin.bottom;
-
-var map = svg
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-        .attr("width", w)
-        .attr("height", h)
-        ;
-
-var proj = d3
-      .geoMercator()
-      .fitSize([w, h], json)
-      ;
-
-var pathx = d3
-              .geoPath()
-              .projection(proj)
-              ;
-
-      map
-        .selectAll("path")
-        .data(json.features)
-        .enter()
-            .append("path")
-            .attr("d", pathx)
-            .style("stroke", "black")
-            .style("opacity","1")
-            .style("stroke-width", "1px")
-            .style("fill", 'orange')
-            .style('fill-opacity','0')
-            ;
-});
-*/
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-w = +svg.attr("width") - margin.left - margin.right,
-h = +svg.attr("height") - margin.top - margin.bottom;
-
-var svg_diag = svg
+              var svg_diag = map
             .append('svg')
-            .attr('y', h/8)
-            .attr('x', w*(4/5))
+            .attr('y', h/60)
+            .attr('x', w*(3.8/5))
             .attr("width", h/4)
             .attr("height", w/6)
             .attr('id','svg_diag')
@@ -1058,6 +885,11 @@ if (error) {console.log(error); return;}
 		});
 
 
+
+});
+
+
+
 }
 
 
@@ -1065,44 +897,6 @@ function sec_4(){
 
       canvas_clear();
 
-      function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        x = text.attr("0"),
-        y = text.attr("y"),
-        dy = 0, //parseFloat(text.attr("dy")),
-        tspan = text.text(null)
-                    .append("tspan")
- //                   .attr("x", 10)
-//                    .attr("x", x)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", dy + "em")
-                    ;
-    while (word = words.pop()) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text
-                    .append("tspan")
-                    //.attr("x", 50)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", ++lineNumber * lineHeight + dy + "em")
-                    .text(word)
-                    ;
-      }
-    }
-  });
-}
 
 svg
     .append('text')
@@ -1299,60 +1093,10 @@ var pathx = d3
               .text('Worse half')
               ;
       
-
-
-});
-
-/*
-d3.json("maps/state_map.json", function(json){
-
-
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-    w = +svg.attr("width") - margin.left - margin.right,
-    h = +svg.attr("height") - margin.top - margin.bottom;
-
-var map = svg
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-        .attr("width", w)
-        .attr("height", h)
-        ;
-
-var proj = d3
-      .geoMercator()
-      .fitSize([w, h], json)
-      ;
-
-var pathx = d3
-              .geoPath()
-              .projection(proj)
-              ;
-
-
-      map
-        .selectAll("path")
-        .data(json.features)
-        .enter()
-            .append("path")
-            .attr("d", pathx)
-            .style("stroke", "black")
-            .style("opacity","1")
-            .style("stroke-width", "1px")
-            .style("fill", 'orange')
-            .style('fill-opacity','0')
-            ;
-});
-*/
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-w = +svg.attr("width") - margin.left - margin.right,
-h = +svg.attr("height") - margin.top - margin.bottom;
-
-var svg_diag = svg
+              var svg_diag = map
             .append('svg')
-            .attr('y', h/8)
-            .attr('x', w*(4/5))
+            .attr('y', h/60)
+            .attr('x', w*(3.8/5))
             .attr("width", h/4)
             .attr("height", w/6)
             .attr('id','svg_diag')
@@ -1392,7 +1136,6 @@ if (error) {console.log(error); return;}
     .attr('stroke-opacity','0')
 		.attr("fill", "#caf270")
   	.attr("fill-opacity","0")
-
 		.transition()
 			.duration(3000)
       .attr('stroke-opacity','1')
@@ -1414,6 +1157,12 @@ if (error) {console.log(error); return;}
 
 
 
+});
+
+
+
+
+
 }
 
 
@@ -1422,44 +1171,6 @@ function sec_5(){
 
       canvas_clear();
 
-      function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        x = text.attr("0"),
-        y = text.attr("y"),
-        dy = 0, //parseFloat(text.attr("dy")),
-        tspan = text.text(null)
-                    .append("tspan")
- //                   .attr("x", 10)
-//                    .attr("x", x)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", dy + "em")
-                    ;
-    while (word = words.pop()) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text
-                    .append("tspan")
-                    //.attr("x", 50)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", ++lineNumber * lineHeight + dy + "em")
-                    .text(word)
-                    ;
-      }
-    }
-  });
-}
 
 svg
     .append('text')
@@ -1590,147 +1301,10 @@ map
             .attr('stroke-opacity',1)
             ;
 
-/*
-            map
-  .append("rect")
-    .attr("rx", 5)
-    .attr("ry", 5)
-    .attr("x", 303)
-    .attr("y", 290)
-    .attr("width", 20)
-    .attr("height", 10)
-    .style("fill", '#caf270')
-    .attr('fill-opacity',1)
-   ;
-
-map
-  .append("rect")
-    .attr("rx", 5)
-    .attr("ry", 5)
-    .attr("x", 303)
-    .attr("y", 310)
-    .attr("width", 20)
-    .attr("height", 10)
-    .style("fill", '#30b096')
-    .attr('fill-opacity',1)
-   ;
-
-map
-        .append('text')
-        .attr('class','subtitle')
-        .attr("x", 325)
-        .attr("y", 300)
-        .text('Better half')
-        ;
-    
-        map
-        .append('text')
-        .attr('class','subtitle')
-        .attr("x", 325)
-        .attr("y", 320)
-        .text('Worse half')
-        ;
-*/
-
-/*
-    map.selectAll('circle')
-        .data(json.features)
-        .enter()
-        .append('circle')
-        .each(function(d) {
-          if (d.properties.district !== 'Firozpur') {
-            return;
-          }
-          d3.select(this)
-            .attr("r", 4)
-            .attr("transform", function(d) { return "translate(" + pathx.centroid(d) + ")"; })
-            .attr("fill", "none")
-            .attr("stroke", "#3a403d")
-            .attr("stroke-width", 2)
-            .attr('stroke-opacity',0)
-            .transition()
-            .duration(3000)
-            .attr('stroke-opacity',1)
-            ;
-        })
-        ;
-
-        map.selectAll('text')
-        .data(json.features)
-        .enter()
-        .append('text')
-        .each(function(d) {
-          if (d.properties.district !== 'Firozpur') {
-            return;
-          }
-          d3.select(this)
-            .style('font-weight','normal')
-            .style('font-size','14px')
-            .attr("transform", function(d) { return "translate(" + pathx.centroid(d) + ")"; })
-            .attr('dx','-10px')
-            .style('text-anchor','end')
-            .attr('opacity','0')
-            .text(function(d){return d.properties.district})
-            .transition()
-            .duration(3000)
-            .attr('opacity','1')
-            ;
-        })
-        ;
-*/
-
-
-
-
-});
-
-/*
-d3.json("maps/state_map.json", function(json){
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-    w = +svg.attr("width") - margin.left - margin.right,
-    h = +svg.attr("height") - margin.top - margin.bottom;
-
-var map = svg
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-        .attr("width", w)
-        .attr("height", h)
-        ;
-
-var proj = d3
-      .geoMercator()
-      .fitSize([w, h], json)
-      ;
-
-var pathx = d3
-              .geoPath()
-              .projection(proj)
-              ;
-
-      map
-        .selectAll("path")
-        .data(json.features)
-        .enter()
-            .append("path")
-            .attr("d", pathx)
-            .style("stroke", "#3a403d")
-            .style("opacity","1")
-            .style("stroke-width", "1px")
-            .style("fill", 'orange')
-            .style('fill-opacity','0')
-            ;
-});
-*/
-
-var margin = {top: 50, right: 15, bottom: 5, left: 15},
-w = +svg.attr("width") - margin.left - margin.right,
-h = +svg.attr("height") - margin.top - margin.bottom;
-
-var svg_diag = svg
+            var svg_diag = map
             .append('svg')
-            .attr('y', h/8)
-            .attr('x', w*(4/5))
+            .attr('y', h/60)
+            .attr('x', w*(3.8/5))
             .attr("width", h/4)
             .attr("height", w/6)
             .attr('id','svg_diag')
@@ -1768,7 +1342,6 @@ if (error) {console.log(error); return;}
     svg_diag
 		.select("#circle3")
     .attr('stroke-opacity','0')
-
 		.transition()
 			.duration(1500)
       .attr('stroke-opacity','1')
@@ -1792,6 +1365,14 @@ if (error) {console.log(error); return;}
 
 
 
+
+
+});
+
+
+
+
+
 }
 
 
@@ -1799,44 +1380,6 @@ function sec_6(){
    
          canvas_clear();
 
-         function wrap(text, width) {
-  text.each(function() {
-    var text = d3.select(this),
-        words = text.text().split(/\s+/).reverse(),
-        word,
-        line = [],
-        lineNumber = 0,
-        lineHeight = 1.1, // ems
-        x = text.attr("0"),
-        y = text.attr("y"),
-        dy = 0, //parseFloat(text.attr("dy")),
-        tspan = text.text(null)
-                    .append("tspan")
- //                   .attr("x", 10)
-//                    .attr("x", x)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", dy + "em")
-                    ;
-    while (word = words.pop()) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if (tspan.node().getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text
-                    .append("tspan")
-                    //.attr("x", 50)
-                    .attr("x", (+svg.attr("width") - width)/2)
-                    .attr("y", y)
-                    .attr("dy", ++lineNumber * lineHeight + dy + "em")
-                    .text(word)
-                    ;
-      }
-    }
-  });
-}
 
 svg
     .append('text')
