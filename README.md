@@ -2,7 +2,7 @@ This is the code and data for an interactive looking at how widespread health co
 
 The data was taken from [here](https://github.com/HindustanTimesLabs/nfhs-data/).
 
-You can see the interactive live [here].(https://shijithpk.github.io/demo2/)
+You can see the interactive live [here](https://shijithpk.github.io/demo2/).
 
 Used a modified version of Adam Pearce's [Graph-Scroll.js library](1wheel.github.io/graph-scroll/) to make this interactive. 
 
