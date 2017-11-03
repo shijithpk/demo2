@@ -1008,7 +1008,7 @@ var pathx = d3
                })
                ;
 
-               map.selectAll('circle')
+    map.selectAll('circle')
         .data(json.features)
         .enter()
         .append('circle')
@@ -1301,7 +1301,39 @@ map
             .attr('stroke-opacity',1)
             ;
 
-            var svg_diag = map
+/*
+map.selectAll('rect')
+        .data(json.features)
+        .enter()
+        .append('rect')
+        .each(function(d) {
+          if (d.properties.district !== 'Tarn Taran') {
+            return;
+          }
+          d3.select(this)
+            .attr("rx", 10)
+            .attr("ry", 10)
+            .attr("transform", function(d) { return "translate(" + pathx.centroid(d)[1] + w/20 + ',' +pathx.centroid(d)[0] + 0 + ")"; })
+            //.attr("transform", function(d) { return "translate(" + w/4 + ',' + w/5 + ")"; })
+//            .attr('dx', w/8)
+  //          .attr('dy', w/10)
+            .attr("fill", "none")
+            .attr("width", w/8)
+            .attr("height", w/10)
+            .attr("stroke", "#3a403d")
+            .attr("stroke-width", 2)
+            .attr('stroke-dasharray',3)
+            .attr('stroke-opacity',0)
+            .transition()
+            .duration(3000)
+            .attr('stroke-opacity',1)
+            ;
+        })
+        ;
+*/
+
+
+var svg_diag = map
             .append('svg')
             .attr('y', w/60)
             .attr('x', w*(3.8/5))
