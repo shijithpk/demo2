@@ -6,7 +6,7 @@ The data was taken from [here](https://github.com/HindustanTimesLabs/nfhs-data/)
 
 You can see how the data was analysed in the [ipython notebook](https://nbviewer.jupyter.org/github/shijithpk/demo2/blob/master/iPython_notebook.ipynb).
 
-Used a modified version of Adam Pearce's [Graph-Scroll.js library](1wheel.github.io/graph-scroll/) to make this interactive. 
+Used a modified version of Adam Pearce's [Graph-Scroll.js library](https://1wheel.github.io/graph-scroll/) to make this interactive. 
 
 Apart from the Graph-Scroll.js library, I also used Gregor Aisch's [d3 jetpack](https://github.com/gka/d3-jetpack), the [d3-geo microlibrary](https://github.com/d3/d3-geo) and the tooltip library [d3-tip.js](https://github.com/Caged/d3-tip).
 
